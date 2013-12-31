@@ -1,9 +1,9 @@
 <!--BLOGLESS
 {
-	title: 'Grunt Readme',
-	authors: ['Connor Peet <connor@connorpeet.com>'],
-	tags: ['readme', 'grunt', 'docs'],
-	posted: 1388300000
+	"title": "Grunt Readme",
+	"authors": ["Connor Peet <connor@connorpeet.com>"],
+	"tags": ["readme", "grunt", "docs"],
+	"posted": 1388300000
 }
 -->
 

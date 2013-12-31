@@ -1,9 +1,9 @@
 <!--BLOGLESS
 {
-	title: 'Laravel Documentation',
-	authors: ['Connor Peet <connor@connorpeet.com>'],
-	tags: ['readme', 'laravel', 'docs'],
-	posted: 1388349929
+	"title": "Laravel Documentation",
+	"authors": ["Connor Peet <connor@connorpeet.com>"],
+	"tags": ["readme", "laravel", "docs"],
+	"posted": 1388349929
 }
 -->
 

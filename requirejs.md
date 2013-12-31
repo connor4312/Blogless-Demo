@@ -1,9 +1,9 @@
 <!--BLOGLESS
 {
-	title: 'R.js Readme',
-	authors: ['Connor Peet <connor@connorpeet.com>', 'James Burke <me@jrburke.com>'],
-	tags: ['readme', 'requirejs', 'docs'],
-	posted: 1388344000
+	"title": "R.js Readme",
+	"authors": ["Connor Peet <connor@connorpeet.com>", "James Burke <me@jrburke.com>"],
+	"tags": ["readme", "requirejs", "docs"],
+	"posted": 1388344000
 }
 -->
 
